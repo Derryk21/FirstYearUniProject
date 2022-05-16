@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"DictionaryTypes"},{"l":"DictionaryTypes.abstractClasses"},{"l":"DictionaryTypes.TrieStructureComponents"}];updateSearchResults();
